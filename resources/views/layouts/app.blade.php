@@ -67,7 +67,7 @@
                     
                     <div class="mt-4">
                         <a href="{{ route('mascotas.public.index') }}" class="btn btn-success btn-lg">
-                            <i class="fas fa-paw me-2"></i>Ver Más Mascotas
+                            <i class="fas fa-paw me-2"></i>Ver Más Mascotas 
                         </a>
                     </div>
                 </div>

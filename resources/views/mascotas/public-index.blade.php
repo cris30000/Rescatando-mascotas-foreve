@@ -10,7 +10,7 @@
     <div class="hero-mascotas text-center">
         <div class="row justify-content-center">
             <div class="col-lg-8">
-                <h1> Encuentra a tu Compañero Ideal</h1>
+                <h1> Encuentra a tu Compañero Ideal cris</h1>
                 <p class="lead">Descubre mascotas increíbles esperando por un hogar lleno de amor</p>
             </div>
         </div>
